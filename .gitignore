@@ -1,0 +1,12 @@
+
+lectures/slides-scopingrules.pdf
+
+*.pdf
+
+work/.RData
+
+work/.Rhistory
+
+work/homicides.txt
+
+work/hw1_data.csv
